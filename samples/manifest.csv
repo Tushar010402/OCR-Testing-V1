@@ -1,0 +1,79 @@
+id,source,ground_truth
+invoice_clean,images/invoice_clean.png,"INVOICE #INV-2024-0042
+Date: 14 March 2024
+Total Due: $1,284.50"
+invoice_small,images/invoice_small.png,"INVOICE #INV-2024-0042
+Date: 14 March 2024
+Total Due: $1,284.50"
+invoice_noisy,images/invoice_noisy.png,"INVOICE #INV-2024-0042
+Date: 14 March 2024
+Total Due: $1,284.50"
+invoice_blurred,images/invoice_blurred.png,"INVOICE #INV-2024-0042
+Date: 14 March 2024
+Total Due: $1,284.50"
+invoice_skewed,images/invoice_skewed.png,"INVOICE #INV-2024-0042
+Date: 14 March 2024
+Total Due: $1,284.50"
+invoice_lowcontrast,images/invoice_lowcontrast.png,"INVOICE #INV-2024-0042
+Date: 14 March 2024
+Total Due: $1,284.50"
+address_clean,images/address_clean.png,"221B Baker Street
+London NW1 6XE
+United Kingdom"
+address_small,images/address_small.png,"221B Baker Street
+London NW1 6XE
+United Kingdom"
+address_noisy,images/address_noisy.png,"221B Baker Street
+London NW1 6XE
+United Kingdom"
+address_blurred,images/address_blurred.png,"221B Baker Street
+London NW1 6XE
+United Kingdom"
+address_skewed,images/address_skewed.png,"221B Baker Street
+London NW1 6XE
+United Kingdom"
+address_lowcontrast,images/address_lowcontrast.png,"221B Baker Street
+London NW1 6XE
+United Kingdom"
+paragraph_clean,images/paragraph_clean.png,"The quick brown fox jumps over
+the lazy dog while 7 wizards
+box and quiz jovial nymphs."
+paragraph_small,images/paragraph_small.png,"The quick brown fox jumps over
+the lazy dog while 7 wizards
+box and quiz jovial nymphs."
+paragraph_noisy,images/paragraph_noisy.png,"The quick brown fox jumps over
+the lazy dog while 7 wizards
+box and quiz jovial nymphs."
+paragraph_blurred,images/paragraph_blurred.png,"The quick brown fox jumps over
+the lazy dog while 7 wizards
+box and quiz jovial nymphs."
+paragraph_skewed,images/paragraph_skewed.png,"The quick brown fox jumps over
+the lazy dog while 7 wizards
+box and quiz jovial nymphs."
+paragraph_lowcontrast,images/paragraph_lowcontrast.png,"The quick brown fox jumps over
+the lazy dog while 7 wizards
+box and quiz jovial nymphs."
+receipt_clean,images/receipt_clean.png,"Coffee Latte  4.50
+Blueberry Muffin  3.25
+Subtotal  7.75
+Tax 8%  0.62"
+receipt_small,images/receipt_small.png,"Coffee Latte  4.50
+Blueberry Muffin  3.25
+Subtotal  7.75
+Tax 8%  0.62"
+receipt_noisy,images/receipt_noisy.png,"Coffee Latte  4.50
+Blueberry Muffin  3.25
+Subtotal  7.75
+Tax 8%  0.62"
+receipt_blurred,images/receipt_blurred.png,"Coffee Latte  4.50
+Blueberry Muffin  3.25
+Subtotal  7.75
+Tax 8%  0.62"
+receipt_skewed,images/receipt_skewed.png,"Coffee Latte  4.50
+Blueberry Muffin  3.25
+Subtotal  7.75
+Tax 8%  0.62"
+receipt_lowcontrast,images/receipt_lowcontrast.png,"Coffee Latte  4.50
+Blueberry Muffin  3.25
+Subtotal  7.75
+Tax 8%  0.62"

@@ -1,0 +1,10 @@
+# CPU-only torch first keeps the install small:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+pytesseract>=0.3.10
+easyocr>=1.7
+paddlepaddle>=3.0
+paddleocr>=3.0
+jiwer>=3.0
+pillow>=10.0
+requests>=2.31
+pytest>=8.0
